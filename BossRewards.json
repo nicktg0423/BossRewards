@@ -1,0 +1,13 @@
+{
+    "id": "BossRewards",
+    "name": "Boss Rewards",
+    "author": [
+        "NickTG"
+    ],
+    "description": "After every Boss Blind, Cash Out opens a pack of three rewards: choose one.",
+    "prefix": "ntgbr",
+    "main_file": "BossRewards.lua",
+    "priority": 0,
+    "badge_colour": "0047AB",
+    "version": "1.0.0"
+}
